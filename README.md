@@ -1,9 +1,17 @@
 # HealthCare Data Analysis
 
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
+
+
 ### Project Overview
+***
 This healthcare analytics project aims to provide comprehensive insights into the operational performance of a hospital network over the past year. By analyzing various aspects of healthcare data, the goal is to uncover trends, offer data-driven recommendations, and gain deeper insights into the network's operational efficiencies and patient outcomes.
 
 ### Data Sources
+***
 The primary dataset utilized for this analysis is sourced from the hospital network's electronic health records (EHR) system, providing detailed information about patient encounters, treatments, outcomes, and operational metrics.
 
 HCP Data: This encompasses details about individuals employed within various hospitals of the Apollo Group, including doctors and their respective information.
@@ -11,6 +19,7 @@ HCP Data: This encompasses details about individuals employed within various hos
 HCO Data: This encompasses information about institutions and entities within the healthcare sector, such as hospitals, clinics, medical practices, healthcare facilities, and healthcare systems.
 
 ### Tools:
+***
 * Excel: Data Cleaning
 * Python: Data Preparation
 * SQL Server: Data Analysis and Querying
@@ -18,6 +27,7 @@ HCO Data: This encompasses information about institutions and entities within th
 
 
 ### Data Cleaning and Preparation
+***
 
 During the data preparation phase, the following tasks were undertaken:
 1. Loading and initial inspection of EHR data.
@@ -26,6 +36,7 @@ During the data preparation phase, the following tasks were undertaken:
 4. Exploratory Data Analysis (EDA)
 
 ### EDA focused on extracting insights to address key questions in healthcare analytics:
+***
 
 -What are the trends in patient admissions and discharges?
 
@@ -34,6 +45,7 @@ During the data preparation phase, the following tasks were undertaken:
 -Are there seasonal variations in healthcare service utilization?
 
 ### Data Analysis
+***
 
 Some interesting features/Code worked with: 
 
@@ -47,6 +59,7 @@ ORDER BY patient_count DESC;
 ***
 
 ### Results and Findings
+***
 
 Key findings from the analysis include:
 
@@ -57,6 +70,7 @@ Key findings from the analysis include:
 -Emergency department utilization spikes during weekends and evenings.
 
 ### Recommendations
+***
 
 Based on the analysis, the following recommendations are proposed:
 
@@ -65,6 +79,7 @@ Based on the analysis, the following recommendations are proposed:
 3. Implement predictive analytics models to forecast patient admissions and optimize resource allocation.
 
 ### Limitations
+***
 
 Certain limitations were encountered during the analysis:
 
