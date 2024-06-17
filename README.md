@@ -33,6 +33,7 @@ During the data preparation phase, the following tasks were undertaken:
 
 Some interesting features/Code worked with: 
 Example SQL Query:
+
 ***sql
 SELECT specialty, COUNT(patient_id) AS patient_count
 FROM patient_encounters
