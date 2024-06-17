@@ -44,29 +44,25 @@ ORDER BY patient_count DESC;
 
 Key findings from the analysis include:
 
-Patient admissions show a seasonal trend, with higher volumes during certain months.
-Specialties like Cardiology and Orthopedics have the highest patient volumes.
-Emergency department utilization spikes during weekends and evenings.
-Recommendations
+-Patient admissions show a seasonal trend, with higher volumes during certain months.
+-Specialties like Cardiology and Orthopedics have the highest patient volumes.
+-Emergency department utilization spikes during weekends and evenings.
+
+### Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
 1. Optimize staffing levels during peak admission periods to improve patient care and reduce wait times.
 2. Enhance resources and services in high-volume specialties to meet patient demand effectively.
 3. Implement predictive analytics models to forecast patient admissions and optimize resource allocation.
-Limitations
+
+### Limitations
 
 Certain limitations were encountered during the analysis:
 
-Variability in data quality across different hospital departments.
-Data privacy and regulatory constraints affecting the scope of analysis.
-Challenges in integrating disparate data sources for a unified analysis.
-References
-
-Healthcare Analytics by [Author Name]
-Data Science in Healthcare: Challenges and Opportunities
-This report provides a comprehensive overview of healthcare analytics, highlighting the importance of leveraging data insights to enhance operational efficiency and patient care within hospital networks.
-
+1. Variability in data quality across different hospital departments.
+2. Data privacy and regulatory constraints affect the scope of analysis.
+3. Challenges in integrating disparate data sources for a unified analysis.
 
 
 
