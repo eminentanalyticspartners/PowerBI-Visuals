@@ -51,7 +51,7 @@ Some interesting features/Code worked with:
 
 Example SQL Query:
 
-***
+***sql
 SELECT specialty, COUNT(patient_id) AS patient_count
 FROM patient_encounters
 GROUP BY specialty
