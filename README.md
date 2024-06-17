@@ -7,7 +7,7 @@ This data analyst project focuses on gaining insights into the distribution of h
 HCP Data: This encompasses details about individuals employed within various hospitals of the Apollo Group, including doctors and their respective information.
 HCO Data: This encompasses information about institutions and entities within the healthcare sector, such as hospitals, clinics, medical practices, healthcare facilities, and healthcare systems.
 
-###Tools:
-Excel- Data Cleaning
-SQL- Data Analysis
-PowerBi- Creating Reports
+### Tools:
+* Excel- Data Cleaning
+* SQL- Data Analysis
+* PowerBi- Creating Reports
