@@ -28,7 +28,9 @@ During the data preparation phase, the following tasks were undertaken:
 ### EDA focused on extracting insights to address key questions in healthcare analytics:
 
 -What are the trends in patient admissions and discharges?
+
 -Which medical specialties have the highest patient volumes?
+
 -Are there seasonal variations in healthcare service utilization?
 
 ### Data Analysis
@@ -49,7 +51,9 @@ ORDER BY patient_count DESC;
 Key findings from the analysis include:
 
 -Patient admissions show a seasonal trend, with higher volumes during certain months.
+
 -Specialties like Cardiology and Orthopedics have the highest patient volumes.
+
 -Emergency department utilization spikes during weekends and evenings.
 
 ### Recommendations
