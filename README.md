@@ -7,6 +7,7 @@ This healthcare analytics project aims to provide comprehensive insights into th
 The primary dataset utilized for this analysis is sourced from the hospital network's electronic health records (EHR) system, providing detailed information about patient encounters, treatments, outcomes, and operational metrics.
 
 HCP Data: This encompasses details about individuals employed within various hospitals of the Apollo Group, including doctors and their respective information.
+
 HCO Data: This encompasses information about institutions and entities within the healthcare sector, such as hospitals, clinics, medical practices, healthcare facilities, and healthcare systems.
 
 ### Tools:
@@ -37,7 +38,6 @@ Some interesting features/Code worked with:
 Example SQL Query:
 
 ***
-***sql
 SELECT specialty, COUNT(patient_id) AS patient_count
 FROM patient_encounters
 GROUP BY specialty
